@@ -1,0 +1,16 @@
+target
+
+.idea/workspace.xml
+.idea/usage.statistics.xml
+.idea/tasks.xml
+.idea/shelf
+.idea/vcs.xml
+.idea/uiDesigner.xml
+
+.gradle
+/build/
+gradle-app.setting
+!gradle-wrapper.jar
+out
+
+.DS_Store
